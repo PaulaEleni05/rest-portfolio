@@ -50,12 +50,12 @@
         "description": "Personal portfolio showcasing projects with dark mode and responsive design.",
         "screenshots": [
             {
-                "url": "https://picsum.photos/seed/portfolio/600/400",
+                "url": "/screenshots/portfolio.png",
                 "caption": "Portfolio Website"
             }
         ],
-        "url": "YOUR_HOSTED_PORTFOLIO_URL",
-        "github": "YOUR_GITHUB_REPO_URL",
+        "url": "https://paula-eleni-popovici-portfolio.netlify.app/",
+        "github": "https://github.com/PaulaEleni05/react-portfolio.git",
         "date": "2025",
         "tags": ["React", "Vite", "Tailwind CSS", "Shadcn UI"]
     },
